@@ -11,11 +11,7 @@ top_nav:
 sheet:
   suffix: cheatsheet
 
-
-
-related_posts_callout:
-  description: Over SIZE curated cheatsheets, by developers for developers.
-  link: Devhints home
+related_posts_callout: ~
 
 related_posts_group:
   top: Top cheatsheets
